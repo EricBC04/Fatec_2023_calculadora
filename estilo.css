@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(149, 226, 223);
+    width: 550px;
+    height: 150px;
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    border: 5px solid rgb(0, 0, 0);
+    margin-left: auto;
+    margin-right: auto;    
+}
